@@ -2,7 +2,7 @@
   "name": "astro-platform-starter",
   "version": "1.0.0",
   "description": "A modern starter based on Astro.js, Tailwind, and Netlify Core Primitives",
-  "main": "index.js",
+  "main": "rewrite.js",
   "scripts": {
     "dev": "netlify dev",
     "build": "astro build",
